@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: AutoSitemapGenPy
+Version: 0.0.1
+Summary: Automated sitemap generation in xml format for your site files
+Home-page: https://github.com/geekAmis/AutoSitemapGenPy
+Author: GeekAmis
+Author-email: gik.lavrov.86@gmail.com
+Project-URL: GitHub, https://github.com/geekAmis
+Keywords: sitemap xml
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+
 # AutoSitemapGenPy README
 
 AutoSitemapGenPy - это простая и удобная библиотека, которая автоматически создаёт sitemap.xml для вашего сайта по указанным файлам в определённой папке. Эта библиотека позволяет генерировать sitemap.xml с минимальным усилием, обеспечивая вашему сайту правильное индексирование поисковыми движками.

@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+AutoSitemapGenPy/__init__.py
+AutoSitemapGenPy/sitemap.py
+AutoSitemapGenPy.egg-info/PKG-INFO
+AutoSitemapGenPy.egg-info/SOURCES.txt
+AutoSitemapGenPy.egg-info/dependency_links.txt
+AutoSitemapGenPy.egg-info/top_level.txt
